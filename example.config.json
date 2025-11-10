@@ -1,0 +1,28 @@
+{
+  "label": "Whitman/Wire",
+  "timezone": "America/New_York",
+  "scan_hours": 6,
+  "dry_run": false,
+  "keywords_primary": [
+    "research",
+    "quant",
+    "internship",
+    "fellowship",
+    "funding",
+    "ai",
+    "data",
+    "hackathon",
+    "lecture",
+    "conference",
+    "call for papers"
+  ],
+  "hard_exclusions": [
+    "unsubscribe",
+    "buy now",
+    "promo",
+    "sale",
+    "discount",
+    "marketing",
+    "admission open"
+  ]
+}
